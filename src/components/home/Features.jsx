@@ -1,6 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Star, Truck, Shield, Clock } from "lucide-react";
+
 const Features = ({ staggerContainer, fadeIn }) => {
   return (
     <div className="bg-gray-50 py-16">
